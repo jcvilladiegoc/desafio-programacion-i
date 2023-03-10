@@ -1,0 +1,17 @@
+{
+  "name": "subarrays-de-arrays",
+  "version": "1.0.0",
+  "description": "Ejercicio de programacion con subarrays de un array",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "subarray",
+    "array",
+    "problema",
+    "ejercicio"
+  ],
+  "author": "JAIRO CESAR VILLADIEGO CONTRERAS",
+  "license": "ISC"
+}
